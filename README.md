@@ -23,4 +23,4 @@ Nos próximos tópicos, descrevo o processo detalhado e as descobertas feitas ao
 
 ## 2. Imagens escolhidas
 
-![pexels-photo-5697249](https://github.com/user-attachments/assets/db86b051-7994-4ca1-b949-a4dc95b39f59)
+
