@@ -26,4 +26,10 @@ Nos próximos tópicos, descrevo o processo detalhado e as descobertas feitas ao
 ### 1. Recursão
 
 Escolhi meu próprio prompt para a IA como imagem de input.
-![image](https://github.com/user-attachments/assets/7dd0d9b4-2c3b-4a7b-8c3f-db240c084e67)
+![Primeira Imagem](/inputs/Imagem 01.png)
+
+#### Resposta
+
+![Resposta da Primeira imagem](/outputs/Imagem 01.png)
+
+A IA teve sucesso no reconhecimento do texto.
