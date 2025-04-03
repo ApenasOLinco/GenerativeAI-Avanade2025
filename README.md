@@ -23,4 +23,7 @@ Nos próximos tópicos, descrevo o processo detalhado e as descobertas feitas ao
 
 ## 2. Imagens escolhidas
 
+### 1. Recursão
 
+Escolhi meu próprio prompt para a IA como imagem de input.
+![image](https://github.com/user-attachments/assets/7dd0d9b4-2c3b-4a7b-8c3f-db240c084e67)
