@@ -31,6 +31,6 @@ Escolhi meu próprio prompt para a IA como imagem de input. Neste caso, procurei
 
 #### Resposta
 
-![Resposta da Primeira imagem](../outputs/Imagem 01.png)
+![Resposta da Primeira imagem](outputs/Imagem%2001.png)
 
 A IA teve sucesso no reconhecimento do texto.
