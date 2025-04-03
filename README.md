@@ -43,7 +43,7 @@ A segunda imagem é um pouco diferente:
 
 ![Imagem 02](inputs/Imagem02.jpeg)
 
-Ainda exite contraste entre plano e fundo e texto, mas o texto é de uma fonte pouco convencional. Desejo ver como a IA se sai neste cenário.
+Ainda exite contraste entre plano de fundo e texto, mas o texto é de uma fonte pouco convencional. Desejo ver como a IA se sai neste cenário.
 
 #### Resposta
 
