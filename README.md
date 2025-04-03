@@ -25,7 +25,8 @@ Nos próximos tópicos, descrevo o processo detalhado e as descobertas feitas ao
 
 ### 1. Recursão
 
-Escolhi meu próprio prompt para a IA como imagem de input.
+Escolhi meu próprio prompt para a IA como imagem de input. Neste caso, procurei testar a habilidade básica de reconhecer texto da IA. A imagem não possui nuances que possam vir a dificultar a visualização de texto, então é um começo perfeito para esse experimento.
+
 ![Primeira Imagem](/inputs/Imagem 01.png)
 
 #### Resposta
